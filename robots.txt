@@ -1,1 +1,1 @@
-Sitemap: https://antilessar.github.io/Sarah-s-Fastai-Blog/sitemap.xml
+Sitemap: https://antilessar.github.io/Sarahs-Fastai-Blog/sitemap.xml
